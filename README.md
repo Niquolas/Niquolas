@@ -16,6 +16,8 @@ A mod installer for Doki Doki Literature Club. See [DokiDokiModManager/Mod-Manag
 
 A Discord bot for getting Switch screenshots off your console and on to your PC or mobile device.
 
+---
+
 **I keep [my website](https://shinomiya.group/) more up to date, so check there for more info.**
 
 <!--
