@@ -1,10 +1,6 @@
 # Hi, I'm Nick 👋
 
-You might know me as **Zudo**. I'm a first year CS student at [UEA](https://www.uea.ac.uk).
-
-|Pronouns|Twitter|Discord|
-|:----:|:----:|:----:|
-|he/him|[zudo_tetris](https://twitter.com/zudo_tetris)|Zudo#0800|
+You might know me as **Zudo** if you've spoken to me online before.
 
 ## My Projects
 
@@ -18,7 +14,7 @@ A Discord bot for getting Switch screenshots off your console and on to your PC 
 
 ---
 
-**I keep [my website](https://shinomiya.group/) more up to date, so check there for more info.**
+*he/him pronouns*
 
 <!--
 **Niquolas/Niquolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
