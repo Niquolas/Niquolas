@@ -14,7 +14,7 @@ A Discord bot for getting Switch screenshots off your console and on to your PC 
 
 ---
 
-*he/him pronouns*
+*Please use he/him pronouns, thanks 😊*
 
 <!--
 **Niquolas/Niquolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
